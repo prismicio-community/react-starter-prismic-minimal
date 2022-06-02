@@ -52,8 +52,8 @@
           }
         },
         "meta": {
-          "fileName": null,
-          "extension": null
+          "fileName": "index",
+          "extension": "jsx"
         },
         "screenshotPaths": {}
       }
