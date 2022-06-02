@@ -2,6 +2,8 @@
   "name": "react-starter-minimal",
   "private": true,
   "version": "0.0.0",
+  "license": "Apache-2.0",
+  "author": "Prismic <contact@prismic.io> (https://prismic.io)",
   "scripts": {
     "dev": "concurrently \"npm:vite:dev\" \"npm:slicemachine\" --names \"next,slicemachine\" --prefix-colors gray,magenta",
     "vite:dev": "vite",
