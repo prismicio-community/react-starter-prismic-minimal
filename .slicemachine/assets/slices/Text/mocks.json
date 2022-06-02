@@ -1,0 +1,17 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "text",
+    "items": [],
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Duis ut amet minim deserunt. Occaecat et enim nulla ex occaecat quis velit consectetur ut.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]

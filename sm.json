@@ -1,0 +1,6 @@
+{
+  "_latest": "0.3.6",
+  "apiEndpoint": "https://react-starter-prismic-minimal.cdn.prismic.io/api/v2",
+  "libraries": ["@/slices"],
+  "framework": "none"
+}

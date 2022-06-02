@@ -1,10 +1,16 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App'
-import './index.css'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { PrismicProvider } from "@prismicio/react";
+import App from "./App";
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+import { createClient } from "../prismicio";
+
+const client = createClient();
+
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App />
+    <PrismicProvider client={client}>
+      <App />
+    </PrismicProvider>
   </React.StrictMode>
-)
+);
