@@ -46,3 +46,4 @@ limitations under the License.
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [react]: https://reactjs.org/
 [vite]: https://vitejs.dev/
+[live-demo]: https://react-starter-prismic-minimal.vercel.app/
